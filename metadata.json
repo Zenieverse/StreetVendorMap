@@ -1,0 +1,10 @@
+{
+  "name": "Gánh Mưu Sinh - Street Vendor Community Map",
+  "description": "Bản đồ cộng đồng kết nối và lan tỏa sự tử tế tới các gánh hàng rong, xe đẩy của người lao động lớn tuổi và yếu thế tại Việt Nam.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
